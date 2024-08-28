@@ -31,4 +31,4 @@ Have questions or need support? We're here to help!
 
 ---
 
-© 2024 IntelliSoft Labs. All rights reserved.
+© 2024 Intellisoft Labs. All rights reserved.
